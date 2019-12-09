@@ -14,7 +14,7 @@
 #   }
 # }
 
-naming_system = [
+naming_system = {
 
 PORTION_1 = {
   label: "Kingdom",
@@ -41,7 +41,7 @@ PORTION_4 = {
   label: "Species",
   sub_category: nil
 }
-]
+}
 
 
 
